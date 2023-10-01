@@ -1,0 +1,19 @@
+{
+  "settings": "Settings",
+  "dark": "Dark",
+  "light": "Light",
+  "name": "Name",
+  "age": "Age",
+  "username": "Username",
+  "password": "Password",
+  "arabic": "Arabic",
+  "english": "English",
+  "login": "Login",
+  "language": "Language",
+  "mode": "Mode",
+  "createaccount": "CreateAccount",
+  "edit": "Edit",
+  "delete": "Delete",
+  "logout": "Logout",
+  "auth": "don't have an account ?"
+}
